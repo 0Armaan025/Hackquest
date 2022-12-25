@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "537317823939",
+    "project_id": "hackquest-00d",
+    "storage_bucket": "hackquest-00d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537317823939:android:5305a1b8927a10d8639976",
+        "android_client_info": {
+          "package_name": "com.example.hackquest.hackquest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537317823939-ha2njqisv9cfv2ahko51hdhud0of0h9n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-8Q-wwGl7UZE4o8OUUyXkKSor0aho1DI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "537317823939-ha2njqisv9cfv2ahko51hdhud0of0h9n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
